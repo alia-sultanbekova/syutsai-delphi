@@ -1,20 +1,12 @@
-# Syutsai — Numerology Analysis Desktop Application
-
-## About the Project
-
-Syutsai is a desktop application developed with Delphi
-for automated numerology calculations and report generation.
-
-## Technologies
-
+Syutsai — Numerology Analysis Desktop Application
+A desktop application developed with Delphi / Object Pascal for automated numerology calculations and report generation.
+Technologies
 - Delphi / Object Pascal
 - Microsoft Access
 - ADO
 - Microsoft Word Automation
 - OLE Automation
-
-## Features
-
+Features
 - Personal data input
 - Numerology calculations
 - Name energy calculation
@@ -24,9 +16,17 @@ for automated numerology calculations and report generation.
 - Personal year calculation
 - Automated Word report generation
 - Database integration
+Screenshots
 
-## Project Status
 
-Completed desktop application.
-
-A cross-platform mobile version is planned using Flutter and Dart.
+🇷🇺 Русская версия
+Syutsai — настольное приложение для нумерологических расчётов, разработанное на Delphi / Object Pascal.
+Основные функции:
+- расчёты по дате рождения;
+- энергия имени;
+- энергия телефона;
+- энергия автомобиля;
+- энергия квартиры/дома;
+- персональный год;
+- формирование отчёта Word;
+- работа с базой данных Microsoft Access.
